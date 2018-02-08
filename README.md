@@ -1,4 +1,5 @@
-## Starting Point for Developing Angular Apps
+## Simple CRUD using Lodash in angular4
+![image](https://github.com/harshittpandey/simpleCRUD-angular4/blob/master/Capture.JPG)
 
 ### Running the Project
 1) Open a command prompt in the project's root directory
@@ -8,12 +9,3 @@
 
 3) Type: `npm start`
     This launches the TypeScript compiler (tsc) to compile the application and wait for changes. It also starts the lite-server and launches the browser to run the application.
-
-### Using
-` SystemJS `
-` Angular 4.0 `
-
-### Features
-- navbar
-- routing setup
-- app.template  -> loads navbar and **RouterOutlet** for **Home Component**
