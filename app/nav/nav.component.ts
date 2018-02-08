@@ -8,5 +8,5 @@ import { Router } from '@angular/router';
 })
 
 export class NavbarComponent {
-  appName: string = "Angular Boilerplate";
+  appName: string = "Simple CRUD using Lodash";
 }
